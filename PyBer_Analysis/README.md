@@ -6,10 +6,11 @@ Analyzing the ride-sharing data by city type in order to showcase the relationsh
 ## Results
 1. By analyzing the total rides, drivers, and fares for city type we can see in the chart below that rural cities have the lower number of rides and drivers but the average per ride and per driver is the highest. and urban cities have the highest number of rides and drivers but the average per ride and per driver is the lowest.
 
-![pyber_summary_df.png](analysis\pyber_summary_df.png.png)
+ ![pyber_summary_df.png](analysis/pyber_summary_df.png)
 
 2. When we look at the first 4 months of 2019 (Jan 1st - Apr28th) we can see the increase at the end of February was for all the city types. 
-![PyBer_fare_summary.png](analysis\PyBer_fare_summary.png)
+
+ ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 ## Results
 Based on the results we sugest the following:
