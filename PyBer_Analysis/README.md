@@ -13,7 +13,7 @@ Analyzing the ride-sharing data by city type in order to showcase the relationsh
  ![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 ## Results
-Based on the results we sugest the following:
+Based on the results we suggest the following:
 1. Adding more drivers to rugal cities-  we can see that there is a growth potential at thous cities.
 2. Decrease the number of drivers in urban cities in order to increase the average ride and driver fare.
 3. Consider adding more drivers to suburban cities- because we can see that there is small growth potential in those cities.
